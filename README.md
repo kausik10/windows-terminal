@@ -5,18 +5,6 @@ I am tired of boring PowerShell and terminal looks, especially after shifting to
 
 ## Installation:
 
-```bash
-npx create-next-app --example blog-starter blog-starter-app
-```
-
-```bash
-yarn create next-app --example blog-starter blog-starter-app
-```
-
-```bash
-pnpm create next-app --example blog-starter blog-starter-app
-```
-
     
 1. **Install Windows Terminal:** Install "Windows Terminal" from your Microsoft Store.
 1. **Install NerdFonts:** Install "NerdFonts" from their <a href="https://github.com/ryanoasis/nerd-fonts/releases" target="_blank" rel="noopener noreferrer">GitHub repository</a>. Personally, I prefer FiraCode Mono.
